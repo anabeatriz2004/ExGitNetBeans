@@ -6,7 +6,7 @@ package estga.poo.exgitnetbeans;
 import java.util.Scanner;
 /**
  * @author Ana Beatriz Vicente
- * @version 1.1
+ * @version 1.2
 */
 class Peca {
     int peca = 0;
